@@ -9,8 +9,7 @@
 <a href="https://goreportcard.com/badge/github.com/khulnasoft-labs/cdncheck"><img src="https://goreportcard.com/badge/github.com/khulnasoft-labs/cdncheck"></a>
 <a href="https://pkg.go.dev/github.com/khulnasoft-labs/cdncheck/pkg/cdncheck"><img src="https://img.shields.io/badge/go-reference-blue"></a>
 <a href="https://github.com/khulnasoft-labs/cdncheck/releases"><img src="https://img.shields.io/github/release/khulnasoft-labs/cdncheck"></a>
-<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/khulnasoft-labs"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
+<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/khulnasoft.svg?logo=twitter"></a>
 </p>
 
 <p align="center">
