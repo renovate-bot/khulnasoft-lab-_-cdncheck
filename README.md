@@ -27,8 +27,6 @@ cdncheck is a tool for identifying the technology associated with dns / ip netwo
 </b>
 </pre>
 
-![image](https://user-images.githubusercontent.com/8293321/234400462-9474a3b6-4f9f-443b-a5c7-15120d6cef5f.png)
-
 ## Features
 
 - **CDN**, **CLOUD** and **WAF** Detection
