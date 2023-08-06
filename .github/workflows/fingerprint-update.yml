@@ -21,7 +21,7 @@ jobs:
 
       - name: Build CDN Data
         env:
-          IPINFO_TOKEN: "${{ secrets.IPINFO_TOKEN }}"
+          IPINFO_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         run: go run . -output ../../sources_data.json
         working-directory: cmd/generate-index
 
