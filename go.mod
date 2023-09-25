@@ -7,7 +7,7 @@ require (
 	github.com/ipinfo/go/v2 v2.9.4
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
-	github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c
+	github.com/khulnasoft-labs/mapcidr v1.1.3
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/logrusorgru/aurora v2.0.3+incompatible
@@ -40,7 +40,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/khulnasoft-labs/blackrock v0.0.1 // indirect
+	github.com/khulnasoft-labs/blackrock v0.0.2 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -68,7 +68,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/crypto v0.11.0 // indirect
-	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1 // indirect
+	golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b // indirect
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
