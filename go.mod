@@ -1,15 +1,15 @@
-module github.com/khulnasoft-labs/cdncheck
+module github.com/khulnasoft-lab/cdncheck
 
 go 1.20
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/ipinfo/go/v2 v2.9.4
-	github.com/khulnasoft-labs/goflags v0.1.13
-	github.com/khulnasoft-labs/gologger v1.1.11
-	github.com/khulnasoft-labs/mapcidr v1.1.3
-	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-lab/goflags v0.1.13
+	github.com/khulnasoft-lab/gologger v1.1.11
+	github.com/khulnasoft-lab/mapcidr v1.1.3
+	github.com/khulnasoft-lab/retryabledns v0.0.0-20230722104401-745c1d25618e
+	github.com/khulnasoft-lab/utils v0.0.45
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.4
