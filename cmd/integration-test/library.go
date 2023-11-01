@@ -3,8 +3,8 @@ package main
 import (
 	"net"
 
-	"github.com/khulnasoft-labs/cdncheck"
-	errorutil "github.com/khulnasoft-labs/utils/errors"
+	"github.com/khulnasoft-lab/cdncheck"
+	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 
 var libraryTestcases = map[string]TestCase{

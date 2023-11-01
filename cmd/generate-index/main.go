@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/khulnasoft-labs/cdncheck"
-	"github.com/khulnasoft-labs/cdncheck/generate"
 	"github.com/pkg/errors"
+	"github.com/khulnasoft-lab/cdncheck"
+	"github.com/khulnasoft-lab/cdncheck/generate"
 	"gopkg.in/yaml.v3"
 )
 

@@ -10,12 +10,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khulnasoft-labs/cdncheck"
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/mapcidr"
-	iputils "github.com/khulnasoft-labs/utils/ip"
 	"github.com/logrusorgru/aurora"
 	"github.com/pkg/errors"
+	"github.com/khulnasoft-lab/cdncheck"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/mapcidr"
+	iputils "github.com/khulnasoft-lab/utils/ip"
 )
 
 type Runner struct {

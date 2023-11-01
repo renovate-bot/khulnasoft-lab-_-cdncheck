@@ -3,7 +3,7 @@ package cdncheck
 import (
 	"testing"
 
-	"github.com/khulnasoft-labs/retryabledns"
+	"github.com/khulnasoft-lab/retryabledns"
 	"github.com/stretchr/testify/require"
 )
 

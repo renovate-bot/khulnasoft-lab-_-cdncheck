@@ -6,17 +6,18 @@
 
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-_red.svg"></a>
-<a href="https://goreportcard.com/badge/github.com/khulnasoft-labs/cdncheck"><img src="https://goreportcard.com/badge/github.com/khulnasoft-labs/cdncheck"></a>
-<a href="https://pkg.go.dev/github.com/khulnasoft-labs/cdncheck/pkg/cdncheck"><img src="https://img.shields.io/badge/go-reference-blue"></a>
-<a href="https://github.com/khulnasoft-labs/cdncheck/releases"><img src="https://img.shields.io/github/release/khulnasoft-labs/cdncheck"></a>
-<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/khulnasoft.svg?logo=twitter"></a>
+<a href="https://goreportcard.com/badge/github.com/khulnasoft-lab/cdncheck"><img src="https://goreportcard.com/badge/github.com/khulnasoft-lab/cdncheck"></a>
+<a href="https://pkg.go.dev/github.com/khulnasoft-lab/cdncheck/pkg/cdncheck"><img src="https://img.shields.io/badge/go-reference-blue"></a>
+<a href="https://github.com/khulnasoft-lab/cdncheck/releases"><img src="https://img.shields.io/github/release/khulnasoft-lab/cdncheck"></a>
+<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
+<a href="https://discord.gg/khulnasoft-lab"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 </p>
 
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
-  <a href="https://discord.gg/khulnasoft-labs">Join Discord</a>
+  <a href="https://discord.gg/khulnasoft-lab">Join Discord</a>
 
 </p>
 
@@ -25,6 +26,8 @@
 cdncheck is a tool for identifying the technology associated with dns / ip network addresses.
 </b>
 </pre>
+
+![image](https://user-images.githubusercontent.com/8293321/234400462-9474a3b6-4f9f-443b-a5c7-15120d6cef5f.png)
 
 ## Features
 
@@ -40,7 +43,7 @@ cdncheck is a tool for identifying the technology associated with dns / ip netwo
 **cdncheck** requires **go1.19** to install successfully. Run the following command to install the latest version:
 
 ```sh
-go install -v github.com/khulnasoft-labs/cdncheck/cmd/cdncheck@latest
+go install -v github.com/khulnasoft-lab/cdncheck/cmd/cdncheck@latest
 ```
 
 # Usage
@@ -159,7 +162,7 @@ var cdnWappalyzerTechnologies = map[string]string{
 
 Helper library that checks if a given IP is running on Cloud / CDN / WAF.
 
-The library can be used by importing `github.com/khulnasoft-labs/cdncheck`. here follows a basic example:
+The library can be used by importing `github.com/khulnasoft-lab/cdncheck`. here follows a basic example:
 
 ```go
 package main
@@ -167,7 +170,7 @@ package main
 import (
 	"fmt"
 	"net"
-	"github.com/khulnasoft-labs/cdncheck"
+	"github.com/khulnasoft-lab/cdncheck"
 )
 
 func main() {
@@ -216,6 +219,9 @@ func main() {
 
 <div align="center">
 
-**cdncheck** is made with ❤️ by the [khulnasoft-labs](https://khulnasoft.com) team and distributed under [MIT License](LICENSE.md).
+**cdncheck** is made with ❤️ by the [khulnasoft-lab](https://khulnasoft-lab.io) team and distributed under [MIT License](LICENSE.md).
+
+
+<a href="https://discord.gg/khulnasoft-lab"><img src="https://raw.githubusercontent.com/khulnasoft-lab/nuclei-burp-plugin/main/static/join-discord.png" width="300" alt="Join Discord"></a>
 
 </div>

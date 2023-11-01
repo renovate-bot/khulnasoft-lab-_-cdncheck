@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/khulnasoft-labs/cdncheck"
+	"github.com/khulnasoft-lab/cdncheck"
 )
 
 func main() {

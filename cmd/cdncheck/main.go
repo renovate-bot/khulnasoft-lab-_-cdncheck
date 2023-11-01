@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/khulnasoft-labs/cdncheck/internal/runner"
-	"github.com/khulnasoft-labs/gologger"
+	"github.com/khulnasoft-lab/cdncheck/internal/runner"
+	"github.com/khulnasoft-lab/gologger"
 )
 
 func main() {
@@ -15,3 +15,4 @@ func main() {
 		gologger.Fatal().Msgf("Could not run cdncheck enumeration: %s\n", err)
 	}
 }
+

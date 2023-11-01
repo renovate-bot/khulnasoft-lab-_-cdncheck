@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/khulnasoft-labs/retryabledns"
+	"github.com/khulnasoft-lab/retryabledns"
 )
 
 var (

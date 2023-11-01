@@ -5,14 +5,14 @@ import (
 	"os"
 	"time"
 
-	"github.com/khulnasoft-labs/cdncheck"
-	"github.com/khulnasoft-labs/goflags"
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/gologger/formatter"
-	"github.com/khulnasoft-labs/gologger/levels"
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	updateutils "github.com/khulnasoft-labs/utils/update"
 	"github.com/logrusorgru/aurora"
+	"github.com/khulnasoft-lab/cdncheck"
+	"github.com/khulnasoft-lab/goflags"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/gologger/formatter"
+	"github.com/khulnasoft-lab/gologger/levels"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	updateutils "github.com/khulnasoft-lab/utils/update"
 )
 
 type Output struct {

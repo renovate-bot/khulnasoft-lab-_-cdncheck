@@ -11,8 +11,8 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/ipinfo/go/v2/ipinfo"
-	"github.com/khulnasoft-labs/cdncheck"
-	stringsutil "github.com/khulnasoft-labs/utils/strings"
+	"github.com/khulnasoft-lab/cdncheck"
+	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 
 var cidrRegex = regexp.MustCompile(`[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\/[0-9]{1,3}`)
