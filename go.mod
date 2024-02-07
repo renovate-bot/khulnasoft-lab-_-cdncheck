@@ -13,7 +13,7 @@ require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.4
-	github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222
+	github.com/weppos/publicsuffix-go v0.30.2-0.20240206082113-a91270e3779c
 	github.com/yl2chen/cidranger v1.0.2
 	gopkg.in/yaml.v3 v3.0.1
 )
