@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
-	github.com/ipinfo/go/v2 v2.9.2
+	github.com/ipinfo/go/v2 v2.11.0
 	github.com/khulnasoft-lab/goflags v0.1.16
 	github.com/khulnasoft-lab/gologger v1.1.13
 	github.com/khulnasoft-lab/mapcidr v1.1.4
